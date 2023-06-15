@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Microsoft YaHei", "微软雅黑", SimSun, 宋体, sans-serif;
+  font-family: "Playfair", "Playfair Placeholder", sans-serif;
   color: rgb(100, 100, 99);
 }
 
@@ -584,7 +584,7 @@ section {
 }
 
 .about .content p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .about .content ul {
